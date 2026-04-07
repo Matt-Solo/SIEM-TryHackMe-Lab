@@ -1,4 +1,4 @@
-# 🛡️ SIEM TryHackMe Lab
+# 🛡️SOC WORKFLOW
 
 🔗 **Live Repo:** [github.com/Matt-Solo/siem-tryhackme-lab](https://github.com/Matt-Solo/siem-tryhackme-lab)
 
